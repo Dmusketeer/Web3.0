@@ -27,3 +27,9 @@ It’s probably most helpful to think about Web3 in the context of previous inte
 
     3. ‘Permissionless’ in that anyone, both users and suppliers,can participate without authorisation from a governing body.
 
+## Summary
+    Web1: Read
+
+    Web2: Read-Write
+
+    Web3: Read-Write-Own
